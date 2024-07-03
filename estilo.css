@@ -1,0 +1,47 @@
+body{
+  background: #e0e0e0;
+  margin: 0 auto;
+}
+.logo img{
+  height: 50px;
+  padding: 10px;
+}
+.logo{
+  background: #002a68;
+  display: flex;
+  justify-content: center;
+}
+
+form{
+  background: #fff;
+  letter-spacing: 1px;
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 4px;
+  margin-top: 30px;
+}
+input{
+  width: 100%;
+  padding: 4px;
+}
+button{
+  background: #006cd8;
+  color: #fff;
+  border: none;
+  width: 100%;
+  text-transform: uppercase;
+  padding: 6px;
+  margin-top: 15px;
+  border-radius: 4px;
+}
+h3{
+  margin: 0;
+}
+.n2{
+  margin-top: 10px;
+}
+.n1{
+  margin-top: 10px;
+}
